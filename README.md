@@ -9,3 +9,5 @@ The number of grenades left is also visible on the screen.
 When the player is dead, a restart option pops-up on the screen.
 ![image](https://user-images.githubusercontent.com/93534905/232226118-7d563b99-89b5-42f1-b11b-f8304c97fe5d.png)
 ![image](https://user-images.githubusercontent.com/93534905/232226153-da51a3a8-38b1-4050-978d-32664cf67641.png)
+
+Checkout the video: https://vimeo.com/817928615
